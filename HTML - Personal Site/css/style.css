@@ -1,0 +1,36 @@
+h1{
+  font-size:100px;
+  color:rgba(255, 1, 200, 1,1);
+
+}
+
+.Content{
+  background-color: green;
+}
+.Broccoli{
+  background-color: red;
+
+}
+.Broccoli:hover{
+  background-color: gold;
+}
+
+.perso{
+  color:green;
+
+}
+
+img{
+  image-resolution: 10
+
+
+}
+table{
+  border: 1px solid
+  
+}
+/*
+img{
+  background-color: red;
+}
+*/
